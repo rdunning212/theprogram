@@ -152,5 +152,3 @@ def map_win_loss(result):
         return 1
     else:
         return 0
-
-stats = get_all_team_stats()
